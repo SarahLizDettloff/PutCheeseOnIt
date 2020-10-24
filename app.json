@@ -2,6 +2,7 @@
   "expo": {
     "name": "PutCheeseOnIt",
     "slug": "PutCheeseOnIt",
+    "description": "Mobile camera application that detects a face to place cheese upon.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

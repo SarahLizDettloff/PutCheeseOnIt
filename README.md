@@ -11,8 +11,9 @@
 ---
 ## Try it out
   * Android: 
+     * Scan a QR code on Expo: 
+      <img src="https://github.com/SarahLizDettloff/PutCheeseOnIt/blob/master/assets/QRSample.png?raw=true" alt="Scan to Play">
      * Download the package: [Click here](https://github.com/SarahLizDettloff/PutCheeseOnIt/raw/master/PutCheeseOnIt.apk)
-
 
 ## Installation
 
@@ -27,6 +28,7 @@ expo start --android
 * [React Native 16.13.1](https://facebook.github.io/react-native/)
 
 * [Expo 39.0.2](https://expo.io/)
+* * See [Project](https://expo.io/@sarahdettloff/projects/PutCheeseOnIt)
 
 * [VS Code](https://code.visualstudio.com/)
 
