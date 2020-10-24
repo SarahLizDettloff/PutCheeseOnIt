@@ -9,5 +9,5 @@ cache:
   npm: false
 script:
   - npm ci
-  - npx jest --ci
+  - npx jest --ci --passWithNoTests
 
