@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Cheddar.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,11 +16,17 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.SarahLizCruse.PutCheeseOnIt",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.SarahLizCruse.PutCheeseOnIt",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
     }
   }
 }
