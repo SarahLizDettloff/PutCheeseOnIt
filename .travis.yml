@@ -1,11 +1,11 @@
 language: node_js
 node_js:
-  - node
-  - lts/*
+  - 6.14.6
 cache:
   directories:
     - ~/.npm
 before_script:
   - npm install
+  - npm install --global expo-cli
 script:
   - npm start
