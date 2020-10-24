@@ -1,6 +1,6 @@
  [![Build Status](https://travis-ci.com/SarahLizDettloff/PutCheeseOnIt.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web)
 <a align="center">
-    <h3 align="center">I Would Put Some Cheese on That</h3>
+    <h3 align="center">Put Cheese On It!</h3>
 </a>
 <h4 align="center">Built with Expo and React Native</h4>
 <p align="center">
