@@ -29,7 +29,7 @@ expo start --android
 * [React Native 16.13.1](https://facebook.github.io/react-native/)
 
 * [Expo 39.0.2](https://expo.io/)
-* * See [Project](https://expo.io/@sarahdettloff/projects/PutCheeseOnIt)
+  * See [Project](https://expo.io/@sarahdettloff/projects/PutCheeseOnIt)
 
 * [VS Code](https://code.visualstudio.com/)
 
