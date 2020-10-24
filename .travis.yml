@@ -8,4 +8,5 @@ before_script:
 cache:
   npm: false
 script:
-  - npm start
+  - npm ci
+  - npx jest --ci
