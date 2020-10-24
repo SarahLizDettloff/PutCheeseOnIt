@@ -13,6 +13,7 @@
   * Android: 
      * Scan a QR code on Expo: 
       <img src="https://github.com/SarahLizDettloff/PutCheeseOnIt/blob/master/assets/QRSample.png?raw=true" alt="Scan to Play">
+      
      * Download the package: [Click here](https://github.com/SarahLizDettloff/PutCheeseOnIt/raw/master/PutCheeseOnIt.apk)
 
 ## Installation
