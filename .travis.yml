@@ -7,8 +7,7 @@ cache:
 install: true
 script:
   - npm install
-  - npm install --global expo-cli
-  - expo start
+  - npm start
 
 branches:
   only:
