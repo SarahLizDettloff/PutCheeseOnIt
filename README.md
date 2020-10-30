@@ -18,7 +18,16 @@ cd PutCheeseOnIt
 npm i -g npm@6.14.6
 npm install
 npm install --global expo-cli
+```
+
+## Examples
+Start
+```bash
 expo start --android
+```
+Build apk
+```bash
+expo build:android -t apk
 ```
 
 ## Built with
