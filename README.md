@@ -1,4 +1,4 @@
- [![Build Status](https://travis-ci.com/SarahLizDettloff/PutCheeseOnIt.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web)
+[![Build Status](https://travis-ci.org/SarahLizDettloff/PutCheeseOnIt.svg?branch=master)](https://travis-ci.org/SarahLizDettloff/PutCheeseOnIt)
 <a align="center">
     <h3 align="center">Put Cheese On It!</h3>
 </a>
